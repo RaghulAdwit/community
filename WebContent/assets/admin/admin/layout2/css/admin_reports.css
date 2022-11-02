@@ -1,0 +1,94 @@
+@charset "ISO-8859-1";
+.table span{
+    margin-right: 1rem;
+}
+#reportForm{
+    margin-left: 0.8rem !important;
+}
+.top_head_txt p{
+    margin-left: 1.25rem;
+}
+.glyphicon-edit{
+    margin-right: 1rem;
+}
+.odd{
+    background-color: #fff !important;
+}
+.page-header.navbar .page-top{
+	background-color:#14B9D6 !important;
+}
+.username {
+    color: #fff !important;
+} 
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i {
+    color: #fff !important;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
+  padding: 24px 12px 23px 12px !important;
+  background-color:#14B9D6 !important;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle:hover{
+	background-color:#139EB7 !important;
+}
+#sample_1 thead{
+	background-color:#14B9D6;
+}
+.table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
+  text-align: center;
+}
+.table{
+	text-align:center !important;
+}
+#submitButton{
+	display:none !important;
+}
+#subdomain,#advertiser{
+	border-radius: 1rem !important;
+    padding: 0.5rem;
+}
+.title_view{
+	padding-left:2.3rem;
+}
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 30px 50px;
+}
+.counter {
+  font-size: 60px;
+  margin-top: 10px;
+}
+@media (max-width: 580px) {
+  body {
+    flex-direction: column;
+  }
+}
+.title h4{
+    text-align: center;
+}
+.animated_cards_container{
+	height: fit-content;
+    width: fit-content;
+    position: absolute;
+    left: 80%;
+    z-index: 100;
+}
+.views span{
+	margin-top: -1.5rem
+}
+.count{
+	font-size:4rem;
+	font-weight: bold;
+    color: darkseagreen;
+}
+@media (max-width:1012px){
+	.animated_cards_container{
+		left:19.5% !important;
+		top:24% !important;
+	}
+	#piechart{
+		margin-top:15rem !important;
+	}
+}

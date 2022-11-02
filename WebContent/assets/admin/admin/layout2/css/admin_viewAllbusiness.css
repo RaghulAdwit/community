@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+.black{
+	margin-left:0.8rem;
+}
+.table span{
+    margin-right: 1rem;
+}
+.top_head_txt p{
+    margin-left: 1.25rem;
+}
+.glyphicon-edit{
+    margin-right: 1rem;
+}
+.odd{
+    background-color: #fff !important;
+}
+.page-header.navbar .page-top{
+	background-color:#14B9D6 !important;
+}
+.username {
+    color: #fff !important;
+} 
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i {
+    color: #fff !important;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
+  padding: 24px 12px 23px 12px !important;
+  background-color:#14B9D6 !important;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle:hover{
+	background-color:#139EB7 !important;
+}
+#sample_1 thead{
+	background-color:#14B9D6;
+}
+.table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
+  text-align: center;
+}
+.table{
+	text-align:center !important;
+}
